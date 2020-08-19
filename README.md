@@ -1,5 +1,6 @@
 # Early-Stage-Diabetes-Detection
 Predicts risk for diabetes based on symptoms
+Implemented using K-Nearest Neighbors Algorithm
 
 # What I Learned
  * Utilizing Python Libraries such as sklearn and pandas
