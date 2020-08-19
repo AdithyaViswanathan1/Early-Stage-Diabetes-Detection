@@ -1,2 +1,7 @@
 # Early-Stage-Diabetes-Detection
-Predicts whether you have Early Stage Diabetes risk based on symptoms
+Predicts whether you have risk for diabetes based on symptoms
+
+# What I Learned
+ * Utilizing Python Libraries such as sklearn and pandas
+ * Preprocess data in order to make it clean and usable
+ * Train and test a model using K-Nearest Neighbors algorithm
