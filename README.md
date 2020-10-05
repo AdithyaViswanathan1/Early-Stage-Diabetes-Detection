@@ -9,4 +9,5 @@ Implemented using K-Nearest Neighbors Algorithm
  * Collecting and feeding user input to model
  
 # Dataset
-  https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset
+  [Link to Dataset](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
+
