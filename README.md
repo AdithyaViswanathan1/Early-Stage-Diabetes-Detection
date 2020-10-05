@@ -7,3 +7,6 @@ Implemented using K-Nearest Neighbors Algorithm
  * Preprocess data in order to make it clean and usable
  * Train and test a model using K-Nearest Neighbors algorithm
  * Collecting and feeding user input to model
+ 
+# Dataset
+  https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.
