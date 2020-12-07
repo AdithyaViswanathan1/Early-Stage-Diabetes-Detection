@@ -1,4 +1,5 @@
 # Early-Stage-Diabetes-Detection
+A Machine Learning Application with GUI\ 
 Predicts risk for diabetes based on symptoms\
 Implemented using K-Nearest Neighbors Algorithm
 
